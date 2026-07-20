@@ -2,6 +2,12 @@
 
 An AI-powered Restaurant Menu Management System built with FastAPI, PostgreSQL, Supabase, Groq LLM, Hugging Face, and RAG.
 
+
+Live API:
+https://your-app.up.railway.app
+
+Swagger:
+https://your-app.up.railway.app/docs
 ---
 
 # Features
