@@ -7,7 +7,7 @@ Live API:
 https://your-app.up.railway.app
 
 Swagger:
-https://your-app.up.railway.app/docs
+https://airestaurantmenu-production.up.railway.app/docs
 ---
 
 # Features
